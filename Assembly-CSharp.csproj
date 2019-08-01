@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\BallController.cs" />
      <Compile Include="Assets\Scripts\PaddleController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Projects/PingPong2D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
